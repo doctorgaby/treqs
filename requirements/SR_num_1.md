@@ -9,21 +9,21 @@ Note3: You can change the ID for the user stories, e.g. "story=USnum1" can be "s
 
 A list of system requirements, traced by their user stories IDs.
 
-### [requirement id=REQ100 story=US100]
+### [requirement id= story=]
 
-The user shall register himself/herself to the application.
+Add a system requirement here! 
 
-### [requirement id=REQ200 story=US100]
+### [requirement id= story=]
 
-The user shall login in order to be able to use the app.
+Add a system requirement here!
 
-### [requirement id=REQ300 story=US200]
+### [requirement id= story=]
 
-The user shall find an empty time and date to be booked.
+Add a system requirement here!
 
-### [requirement id=REQ400 story=US300]
+### [requirement id= story=]
 
-The doctor shall check the list of his/her patients, including their names, ages, allergies, situations and their booked times. 
+Add a system requirement here!
 
 
 
