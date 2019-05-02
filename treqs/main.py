@@ -160,7 +160,7 @@ def main(argv):
     log.write('The following requirements are referenced by test cases, but do not exist:\n\n')
     for currentID in nonExistingReqTC:
         log.write('* Requirement ' + currentID + '\n')
-        
+     
     log.close()
     
     #Return -1 if the validation has failed, and print the log to the console
@@ -168,7 +168,7 @@ def main(argv):
         print('Validation failed with the following output:\n')
         with open(filename, 'r') as f:
             print(f.read())
-        return -1
+        return -1 
 
 if __name__ == '__main__':
     main(sys.argv)
