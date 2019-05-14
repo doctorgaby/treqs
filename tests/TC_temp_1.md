@@ -2,10 +2,10 @@
 
 ## TestCases
 
-A list of manual test cases of user stories and their requirements. (Group A)
+A list of manual test cases of user stories and their requirements. (Group B)
 
 Note1: "userstory=" refers to the ID of the user story. "requirement req=" refers to the ID of the system requirement, traced by the user story. "testcase id=" refers to the ID of the test case.
-Note2: You can change the ID for the test cases, e.g. "id=TCnum1" can be "id=TC1",etc. Taking into account that you keep "TC" in the beginning of the ID.
+Note2: You can change the ID for the test cases, e.g. "id=TCtemp1", "id=TCtemp" etc. Taking into account that you keep "TC" in the beginning of the ID.
 
 ## [testcase id= userstory= requirement req=]
 
