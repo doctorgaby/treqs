@@ -9,32 +9,24 @@ Note2: You can change the ID for the test cases, e.g. "id=TCnum1" can be "id=TC1
 
 ## [testcase id= userstory= requirement req=]
 
-Purpose: Purpose of the test case without linebreak.
+// To be filled out!
 
 ### Setup
 
-Describe any steps that must be done before performing the test.
+// To be filled out!
 
 ### Scenario / Steps
 
-Note: An example of how you write steps for the test case:
-
-1. Be creative and motivated
-2. Study hard
-3. Learn more
-4. Apply for a job
-5. Get accpeted to  the  job
-6. Siggn the contract
-
+// To be filled out!
 
 ### Expected outcome
 
-Describe the expected outcome of the test case as "steps".
+// To be filled out!
 
 ### Tear down
 
-Describe what to do after the test as "steps"
+// To be filled out!
 
 ### Test result
 
-Protocol of the result of executing this test, latest on top.
+// To be filled out!
