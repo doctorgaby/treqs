@@ -9,23 +9,20 @@ Note3: You can change the ID for the user stories, e.g. "story=US1". Taking into
 
 A list of system requirements, traced by their user stories IDs.
 
-### [requirement id= story=]
+### [requirement id=REQn1 story=USn1]
 
-Add a system requirement here! 
+The user should be able to register to our portal by providing a valid e-mail and social security number.
 
-### [requirement id= story=]
+### [requirement id=REQn2 story=USn1]
 
-Add a system requirement here!
+The system should require multiple identification methods, such as facebook and google.
 
-### [requirement id= story=]
+### [requirement id=REQn3 story=USn2]
 
-Add a system requirement here!
+The application will need to display a main calendar with highlights about future events
 
-### [requirement id= story=]
+### [requirement id=REQn3 story=USn3]
 
-Add a system requirement here!
-
-
-
+The system should have two login types; the pacient will be an user, while the doctor will have special privileges.
 
 

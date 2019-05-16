@@ -31,8 +31,6 @@ Purpose: Test that a user story can be created in GitHub
 
 Protocol of the result of executing this test, latest on top.
 
-
-
 ## [testcase id=TC3 story=US1a,US1b,US1c,US2,US4 req=REQ7,REQ9,REQ10]
 
 Purpose: Editing a system requirement and putting the change up for review
