@@ -9,21 +9,17 @@ Note3: You can change the ID for the user stories, e.g."story=UStemp1". Taking i
 
 A list of system requirements, traced by their user stories IDs.
 
-### [requirement id= story=]
+### [requirement id=REQ111 story=US1]
 
-Add a system requirement here! 
+The user shall register himself/herself to the application.
 
-### [requirement id= story=]
+### [requirement id=REQ22 story=US22]
 
-Add a system requirement here!
+The user shall log-in in order to be able to use the app.
 
-### [requirement id= story=]
+### [requirement id=REQ33 story=US33]
 
-Add a system requirement here!
-
-### [requirement id= story=]
-
-Add a system requirement here!
+The doctor shall log-in as an administrator.
 
 
 
