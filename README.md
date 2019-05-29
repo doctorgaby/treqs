@@ -113,16 +113,18 @@ The minimal setup (as provided by the folders in this project) is as follows.
 	
 	[userstory id=US4]
 	As a test architect or system manager, I want to be aware of new requirements for the test infrastructure early on so that I can plan verification and validation pro-actively. 
-```
+        ```
 
 The formats are here mainly chosen for convenience, but can easily be adapted to any company standard. 
 
 ## Usage
 
-    Usage:
+Usage:
+
       treqs [-u DIR] [-s DIR] [-t DIR] [--uspattern PATTERN] [--srpattern PATTERN] [--tcpattern PATTERN] [-r] [-q]
 
-    Options:
+Options:
+
       -u           directory to search for user stories [default: requirements/]
       -s           directory to search for system requirements [default: requirements/]
       -s           directory to search for test cases [default: tests/]
