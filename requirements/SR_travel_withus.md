@@ -9,17 +9,17 @@ Note3: You can change the ID for the user stories, e.g. "story=USnum1" can be "s
 
 A list of system requirements, traced by their user stories IDs.
 
-### [requirement id=001 story=US002]
+### [requirement id=TW001 story=UStwu001]
 
-The doctor shall check the list of his/her patients, including their names, ages, allergies, situations and their booked times. 
+BookingAgent shall book a trip for a client  
 
-### [requirement id= story=]
+### [requirement id=TW002 story=UStwu002]
 
-The doctor shall log-in as an administrator.
+Flyer shall register for the agent's services
 
-### [requirement id=003 story=US001]
+### [requirement id=003 story=UStwu003]
 
-The doctor shall send a notification message to the patients with details about the booking.
+Flyer shall cancel trip
 
 
 
