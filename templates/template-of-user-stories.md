@@ -7,17 +7,17 @@ Note2: You can change the ID for the user stories, e.g. "id=USnum1" can be "id=U
 
 
 ###[userstory  id=USnum1]
-Add a user story here!
+As a <role> I want to <feature> so that <user/customer/business value>.
 
 ###[userstory  id=USnum2]
-Add a user story here!
+As a <role> I want to <feature> so that <user/customer/business value>.
 
 ###[userstory  id=USnum3]
-Add a user story here!
+As a <role> I want to <feature> so that <user/customer/business value>.
 
 ###[userstory  id=USnum4]
-Add a user story here!
+As a <role> I want to <feature> so that <user/customer/business value>.
 
 ###[userstory  id=USnum5]
-Add a user story here!
+As a <role> I want to <feature> so that <user/customer/business value>.
 
